@@ -1,0 +1,1 @@
+This History of Christmas Tree project contains same page linking designed as a table to quickly navigate between sections of text. There's also a 'Back to Top' button to increase ease of navigation as well.
